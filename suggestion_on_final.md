@@ -58,6 +58,7 @@ public class A() {
         return str;
     }
 }
+```
 
     1. Write two JUnit test methods to test method B. The first test should enter the "if" branch while the second test should not. The code written should be able to compile.
     2. Write JavaDoc for the method. The JavaDoc should include a brief description and what parameter and return value is.
