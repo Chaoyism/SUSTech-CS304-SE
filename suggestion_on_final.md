@@ -23,7 +23,7 @@ There are at least 4 questions are asking you which of the four given choices is
 And you'd better know what the three components in PMD are specifically responsible for. For example, there were two questions like: what kinds of code norm (unused method, weird naming...) would NOT be checked by CheckStyle?
 
 ## Essay Question
-There were 4-5 essay questions in 2021Spring. They are (may not be in order):
+There were 5 essay questions in 2021Spring. They are (may not be in order):
 1. Smoke Test
     1. Briefly explain what Smoke Test is.
     2. If you are given a Pokemon Ball (the usage is explained in the text), describe how you are going to apply Smoke Test to the ball.
@@ -60,3 +60,7 @@ public class A() {
 4. Extreme Programming (XP)
     1. Describe two practices of XP.
     2. Not remembered...
+
+5. Git
+    1. If you want to commit something to Git with message "lol", what is the command?
+    2. If you want to push something to a remote repo which is the origin, what is the command?
