@@ -28,6 +28,10 @@ A question asked which one is NOT included in the 10 principles of designing a U
 
 A question asked some details about Mutation Test. Read the text carefully.
 
+A question asked the principle of and difference between Git and SVN.
+
+A question asked what is the sign to label title in Markdown.
+
 ## Essay Question
 There were 5 essay questions in 2021Spring. They are (may not be in order):
 1. Smoke Test
