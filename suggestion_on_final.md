@@ -39,7 +39,7 @@ There were 5 essay questions in 2021Spring. They are (may not be in order):
     2. Why?
 
 3. You are given a part of a Java code, it would be like this:
-```
+```java
 import ...
 public class A() {
     public static void B(String str) {
@@ -59,6 +59,7 @@ public class A() {
     }
 }
 ```
+
 
     1. Write two JUnit test methods to test method B. The first test should enter the "if" branch while the second test should not. The code written should be able to compile.
     2. Write JavaDoc for the method. The JavaDoc should include a brief description and what parameter and return value is.
