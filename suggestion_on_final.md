@@ -20,7 +20,13 @@ A good advice would be: read slides on both lec and lab carefully and try to mem
 - Dex2Jar
 There are at least 4 questions are asking you which of the four given choices is used for some goal. For example, which is NOT used to decompile a Java program?
 
-And you'd better know what the three components in PMD are specifically responsible for. For example, there were two questions like: what kinds of code norm (unused method, weird naming...) would NOT be checked by CheckStyle?
+And you'd better know what the three components in PMD are specifically responsible for. For example, there were two questions like: what kinds of code norm (unused method, weird naming...) would NOT be checked by PMD?
+
+A question asked what is the step after Continuous Integration (mentioned in a picture in the slides of CI).
+
+A question asked which one is NOT included in the 10 principles of designing a UI (very obvious in fact).
+
+A question asked some details about Mutation Test. Read the text carefully.
 
 ## Essay Question
 There were 5 essay questions in 2021Spring. They are (may not be in order):
@@ -33,7 +39,7 @@ There were 5 essay questions in 2021Spring. They are (may not be in order):
     2. Why?
 
 3. You are given a part of a Java code, it would be like this:
-'''
+```
 import ...
 public class A() {
     public static void B(String str) {
@@ -52,14 +58,14 @@ public class A() {
         return str;
     }
 }
-'''
+```
     1. Write two JUnit test methods to test method B. The first test should enter the "if" branch while the second test should not. The code written should be able to compile.
     2. Write JavaDoc for the method. The JavaDoc should include a brief description and what parameter and return value is.
     3. There was question 3 but I cannot remember...
 
 4. Extreme Programming (XP)
     1. Describe two practices of XP.
-    2. Not remembered...
+    2. Give two examples of the tools which can build Java program.
 
 5. Git
     1. If you want to commit something to Git with message "lol", what is the command?
